@@ -23,7 +23,7 @@ kramdown:
 # Third-party services
 # just leave someone empty to disable it
 google_analytics: UA-96228693-1
-# disqus_shortname:
+disqus_shortname: boletellus
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
